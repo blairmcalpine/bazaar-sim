@@ -1,0 +1,15 @@
+{
+  "name": "bazaar-sim",
+  "module": "index.ts",
+  "scripts": {
+    "sim": "bun run src/index.ts"
+  },
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
