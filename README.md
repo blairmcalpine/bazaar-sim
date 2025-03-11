@@ -1,6 +1,8 @@
 # bazaar-sim
 
-To install dependencies:
+WIP: A command-line simulator for the strategy game, "The Bazaar".
+
+To install dependancies:
 
 ```bash
 bun install
@@ -11,5 +13,3 @@ To run:
 ```bash
 bun run index.ts
 ```
-
-This project was created using `bun init` in bun v1.2.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
